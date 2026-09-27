@@ -6,11 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7B61FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Data+Analytics;A%2FB+tests+and+product+metrics;From+raw+data+to+a+working+product;Now+learning%3A+LLM+%C2%B7+NLP+%C2%B7+FastAPI" alt="Typing SVG"/>
 </p>
 
-<!-- Контакты: замените [ваш_ник], [ваша@почта.ru], [id]. Ненужные строки удалите -->
 <p align="center">
-  <a href="https://t.me/@by_yaros"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/by_yaros"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:yarosteam@yandex.ru"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://hh.ru/resume/[id]"><img src="https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logo=headhunter&logoColor=white" alt="hh.ru"></a>
   <img src="https://komarev.com/ghpvc/?username=LYNORR&color=7B61FF&style=for-the-badge&label=Просмотры" alt="Просмотры профиля">
 </p>
 
