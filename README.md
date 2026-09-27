@@ -8,8 +8,8 @@
 
 <!-- Контакты: замените [ваш_ник], [ваша@почта.ru], [id]. Ненужные строки удалите -->
 <p align="center">
-  <a href="https://t.me/[@by_yaros]"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:[yarosteam@yandex.ru]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/@by_yaros"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:yarosteam@yandex.ru"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://hh.ru/resume/[id]"><img src="https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logo=headhunter&logoColor=white" alt="hh.ru"></a>
   <img src="https://komarev.com/ghpvc/?username=LYNORR&color=7B61FF&style=for-the-badge&label=Просмотры" alt="Просмотры профиля">
 </p>
